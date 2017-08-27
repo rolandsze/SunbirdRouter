@@ -1,0 +1,19 @@
+{
+    "name": "rolandsze/sunbirdrouter",
+    "description": "A PHP router and URL generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Szecsenyi",
+            "email": "roland.sze@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SunbirdRouter\\": "src/"
+        }
+    }
+}
